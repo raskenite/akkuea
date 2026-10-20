@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/issue-1191-api-require-authentication-on-the-oracle",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/issue-1191-api-require-authentication-on-the-oracle": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/issue-1191-api-require-authentication-on-the-oracle",
+    "origin"
+  ]
+}
